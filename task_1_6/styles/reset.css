@@ -1,0 +1,45 @@
+*{ margin: 0; padding: 0;}
+body{ background: #444 url(../img/sunflower.jpg); background-attachment: fixed; background-repeat: no-repeat; background-size: cover; background-position: center;}
+a{ text-decoration: none;}
+p{ font-size: 12px; color: #000; letter-spacing: 1px;}
+nav{ height: 50px;}
+ul{ margin: 0;}
+li{ list-style: none; line-height: 44px;}
+button{ border: none; background: #333; color: #fff; padding: 10px;}
+input{ border: none; padding: 8px 12px;}
+h2{ font-size: 30px;}
+h3{ font-size: 24px;}
+
+
+
+
+.clear:after{ content: ''; display: block; clear: both;}
+.hr{ width: 100%; height: 2px; margin: 20px auto;}
+.sub-heading{ line-height: 30px; margin: 30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	background: #333;
+	color: #fff;
+	min-height: 150px;
+	text-align: center;
+}
